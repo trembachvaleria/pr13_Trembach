@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 13\\pr13_Trembach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB18FC-1D5F-4836-A225-01C6E4E37566}|pr13_Trembach\\pr13_Trembach.vcxproj|C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 13\\pr13_Trembach\\pr13_Trembach\\pr13_Trembach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0BB18FC-1D5F-4836-A225-01C6E4E37566}|pr13_Trembach\\pr13_Trembach.vcxproj|solutionrelative:pr13_Trembach\\pr13_Trembach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F57C457-C36F-4C89-AB10-3248D4418243}|racer\\racer.vcxproj|C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 13\\pr13_Trembach\\racer\\racer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F57C457-C36F-4C89-AB10-3248D4418243}|racer\\racer.vcxproj|solutionrelative:racer\\racer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "racer.cpp",
+              "DocumentMoniker": "C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 13\\pr13_Trembach\\racer\\racer.cpp",
+              "RelativeDocumentMoniker": "racer\\racer.cpp",
+              "ToolTip": "C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 13\\pr13_Trembach\\racer\\racer.cpp",
+              "RelativeToolTip": "racer\\racer.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-07T15:52:55.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr13_Trembach.cpp",
+              "DocumentMoniker": "C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 13\\pr13_Trembach\\pr13_Trembach\\pr13_Trembach.cpp",
+              "RelativeDocumentMoniker": "pr13_Trembach\\pr13_Trembach.cpp",
+              "ToolTip": "C:\\Users\\\u043B\u0435\u0440\u0430\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442 13\\pr13_Trembach\\pr13_Trembach\\pr13_Trembach.cpp",
+              "RelativeToolTip": "pr13_Trembach\\pr13_Trembach.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIcAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-07T15:52:21.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
